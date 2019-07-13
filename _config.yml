@@ -1,14 +1,14 @@
 # Site settings
-title: Mauricio Urraco
+title: Kim Young Jun
 description: Jekyll Theme Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
-user_description: I'm a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT.. I'm one of the two guys behind all the JS related stuff. Visit my blog here":" <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
-user_title: Software Engineer
-email: mauriurraco@gmail.com
+username: Kim Young Jun
+user_description: 데이터를 수집하고 분석하는 것을 좋아합니다. 통계학을 전공해서 데이터를 자주 접하고 분석하다보니, 수집하는 부분에 흥미가 생겼고 Web에 이어지게 됐습니다. 여러 통계툴(SAS, SPSS, R, Phython)과 웹언어(ASP, PHP, Node JS, JAVA)를 접해본 경험이 있습니다. SpringBoot, JPA, MySql기반으로 제작한 다면평가, 실적평가 시스템 그리고, 이를 이해, 운영할 수 있는 지식과 경험을 가지고 있습니다. <br><br> 다면평가 시스템을 소개해 드립니다. - <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a><br>실적평가 시스템을 소개해 드립니다. - <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
+user_title: data collection & statistics
+email: yorez@naver.com
 # twitter_username: lorem_ipsum
 # github_username:  lorem_ipsum
 # gplus_username:  lorem_ipsum
